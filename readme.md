@@ -13,11 +13,15 @@ Ensure you have the following installed on your system:
 
 ## 🛠️ Backend Setup (FastAPI)
 
+```sh
+cd backend
+```
+
 ### 1️⃣ Create a Virtual Environment
 Run the following command based on your OS:
 
 **For macOS/Linux:**
-```sh
+cd backend
 python3 -m venv env
 source env/bin/activate
 ```
