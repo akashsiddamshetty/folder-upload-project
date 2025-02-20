@@ -21,7 +21,7 @@ cd backend
 Run the following command based on your OS:
 
 **For macOS/Linux:**
-cd backend
+```sh
 python3 -m venv env
 source env/bin/activate
 ```
